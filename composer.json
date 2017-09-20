@@ -4,11 +4,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Specktical",
+            "name": "Specktical"
         }
     ],
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.4.0",
+        "codeception/codeception": "2.*",
+        "jasny/dotkey": "^1.0"
     },
     "autoload": {
         "psr-4": {
